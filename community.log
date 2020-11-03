@@ -1,0 +1,43 @@
+2020-11-03 21:25:46.735  INFO 93194 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests on MacBook-Pro.local with PID 93194 (started by huahongzhi in /Users/huahongzhi/Desktop/workspace/community)
+2020-11-03 21:25:46.738 DEBUG 93194 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-11-03 21:25:46.741  INFO 93194 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2020-11-03 21:25:48.487  INFO 93194 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 21:25:48.589  INFO 93194 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-11-03 21:25:48.900  INFO 93194 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 2.549 seconds (JVM running for 3.421)
+2020-11-03 21:25:49.367 DEBUG 93194 --- [main] com.nowcoder.community.LoggerTests       : debug logger
+2020-11-03 21:25:49.368  INFO 93194 --- [main] com.nowcoder.community.LoggerTests       : info logger
+2020-11-03 21:25:49.368 ERROR 93194 --- [main] com.nowcoder.community.LoggerTests       : error logger
+2020-11-03 21:25:49.382  INFO 93194 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-03 21:28:47.822  INFO 93241 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests on MacBook-Pro.local with PID 93241 (started by huahongzhi in /Users/huahongzhi/Desktop/workspace/community)
+2020-11-03 21:28:47.828 DEBUG 93241 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-11-03 21:28:47.830  INFO 93241 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2020-11-03 21:28:49.543  INFO 93241 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 21:28:49.646  INFO 93241 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-11-03 21:28:49.951  INFO 93241 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 2.471 seconds (JVM running for 3.326)
+2020-11-03 21:28:50.491 DEBUG 93241 --- [main] com.nowcoder.community.LoggerTests       : debug logger
+2020-11-03 21:28:50.492  INFO 93241 --- [main] com.nowcoder.community.LoggerTests       : info logger
+2020-11-03 21:28:50.492 ERROR 93241 --- [main] com.nowcoder.community.LoggerTests       : error logger
+2020-11-03 21:28:50.508  INFO 93241 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-03 21:31:52.936  INFO 93285 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests on MacBook-Pro.local with PID 93285 (started by huahongzhi in /Users/huahongzhi/Desktop/workspace/community)
+2020-11-03 21:31:52.937 DEBUG 93285 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-11-03 21:31:52.938  INFO 93285 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2020-11-03 21:32:00.321  INFO 93290 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests on MacBook-Pro.local with PID 93290 (started by huahongzhi in /Users/huahongzhi/Desktop/workspace/community)
+2020-11-03 21:32:00.322 DEBUG 93290 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-11-03 21:32:00.322  INFO 93290 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2020-11-03 21:32:01.957  INFO 93290 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 21:32:02.052  INFO 93290 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-11-03 21:32:02.335  INFO 93290 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 2.405 seconds (JVM running for 3.248)
+2020-11-03 21:32:02.748 DEBUG 93290 --- [main] com.nowcoder.community.LoggerTests       : debug logger
+2020-11-03 21:32:02.749  INFO 93290 --- [main] com.nowcoder.community.LoggerTests       : info logger
+2020-11-03 21:32:02.749 ERROR 93290 --- [main] com.nowcoder.community.LoggerTests       : error logger
+2020-11-03 21:32:02.761  INFO 93290 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-03 21:32:41.215  INFO 93298 --- [main] com.nowcoder.community.LoggerTests       : Starting LoggerTests on MacBook-Pro.local with PID 93298 (started by huahongzhi in /Users/huahongzhi/Desktop/workspace/community)
+2020-11-03 21:32:41.217 DEBUG 93298 --- [main] com.nowcoder.community.LoggerTests       : Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2020-11-03 21:32:41.218  INFO 93298 --- [main] com.nowcoder.community.LoggerTests       : No active profile set, falling back to default profiles: default
+2020-11-03 21:32:42.825  INFO 93298 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 21:32:42.917  INFO 93298 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-11-03 21:32:43.183  INFO 93298 --- [main] com.nowcoder.community.LoggerTests       : Started LoggerTests in 2.314 seconds (JVM running for 3.111)
+2020-11-03 21:32:43.593 DEBUG 93298 --- [main] com.nowcoder.community.LoggerTests       : debug logger
+2020-11-03 21:32:43.593  INFO 93298 --- [main] com.nowcoder.community.LoggerTests       : info logger
+2020-11-03 21:32:43.594 ERROR 93298 --- [main] com.nowcoder.community.LoggerTests       : error logger
+2020-11-03 21:32:43.605  INFO 93298 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
