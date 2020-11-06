@@ -25,6 +25,7 @@ public class HomeController {
     @Autowired
     private UserService userService;
 
+//    test
     @RequestMapping(path = "/index", method= RequestMethod.GET)
     public String getIndexPage(Model model, Page page){
         page.setRows(discussPostService.findDiscussPostRows(0));
